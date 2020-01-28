@@ -1,5 +1,4 @@
-# ADQA
-Automated Data Quality Assessment.
+# ADQA: Automated Data Quality Assessment
 Data quality assessment is very crucial in every data science project. The aim of this project is to automate the process of data quality assessment. 
 Data quality assesment addresses the following issues (but not limited to) of a dataset.
 
